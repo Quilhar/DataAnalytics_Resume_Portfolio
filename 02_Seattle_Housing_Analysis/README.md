@@ -26,12 +26,4 @@ Explores a real-world housing dataset through data cleaning, grouped statistics,
 - Created visualizations to communicate how variables such as size and location-related features relate to housing prices.
 - Structured a reproducible analysis workflow from raw CSV data to statistical summaries and visual findings.
 
-## How to make this portfolio-ready
 
-Document the dataset source and definitions, add a small data-quality section, and quantify one or two relationships instead of relying only on plots.
-
-## Academic attribution
-
-This project was originally developed as coursework. Any public version should preserve
-the appropriate course attribution and should not be presented as independent research
-unless the analysis was substantially extended beyond the original assignment.

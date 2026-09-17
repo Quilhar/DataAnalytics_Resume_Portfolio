@@ -26,12 +26,3 @@ Uses exploratory analysis and clustering to investigate whether drivers can be s
 - Used exploratory statistics and visualizations to examine feature distributions and interpret differences between resulting clusters.
 - Translated an unlabeled behavioral dataset into interpretable segments, demonstrating an end-to-end introductory machine-learning workflow.
 
-## How to make this portfolio-ready
-
-State the clustering algorithm and number of clusters explicitly, report the evaluation/selection method, and add a 2D visualization showing the resulting groups.
-
-## Academic attribution
-
-This project was originally developed as coursework. Any public version should preserve
-the appropriate course attribution and should not be presented as independent research
-unless the analysis was substantially extended beyond the original assignment.

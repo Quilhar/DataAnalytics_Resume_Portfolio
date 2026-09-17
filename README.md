@@ -1,6 +1,6 @@
 # Data Analytics Portfolio
 
-This folder contains the strongest projects from the original DataAnalytics coursework to showcase on a resume, application, or GitHub profile.
+This folder contains the strongest projects from my original DataAnalytics coursework.
 
 ## Recommended showcase projects
 
@@ -14,5 +14,4 @@ This folder contains the strongest projects from the original DataAnalytics cour
 ## Shared project utilities
 - `data_analytics_lib.py` — reusable statistics and plotting functions used across the portfolio examples.
 
-## Portfolio note
-These projects are best presented as coursework-based data projects, with honest attribution and a clear explanation of the methods used. Before publishing, verify the dataset source, keep the file paths project-local, and remove any leftover instructor-specific or absolute-path references.
+
